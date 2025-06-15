@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728577847571",
+    "project_id": "pointatob-ac8bb",
+    "storage_bucket": "pointatob-ac8bb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728577847571:android:9bf0201e5233db06526ae6",
+        "android_client_info": {
+          "package_name": "com.pointatob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5KOKhw_pv7iHBTvSybF68CauODxY_LGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
